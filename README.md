@@ -3,7 +3,9 @@
 A custom Android Horizontal RecyclerView that intelligently snaps the selected item to the center of the screen, highlights it, and scales down unselected items.
 
 ## 📱 Demo Video
-![CenterSnap Demo](./centersnap_demo.mp4)
+<video src="./centersnap_demo.mp4" controls="controls" width="600">
+  Your browser does not support the video tag.
+</video>
 
 *(Note: If the inline video doesn't auto-play in your Markdown reader, open `centersnap_demo.mp4` directly in your media player).*
 
